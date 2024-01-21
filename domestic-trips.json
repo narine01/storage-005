@@ -11,6 +11,7 @@
     pickUpLocation: "Bengaluru",
     dropOffLocation: "Bengaluru",
     duration: "3N 4D",
+    imageUrl:"https://github.com/narine01/storage-005/blob/main/Images/pondicherry.png",
   },
   {
     category: "Domestic",
@@ -24,6 +25,7 @@
     pickUpLocation: "Bengaluru",
     dropOffLocation: "Bengaluru",
     duration: "2N 3D",
+    imageUrl:"https://github.com/narine01/storage-005/blob/main/Images/chikmanglur.png",
   },
   {
     category: "Domestic",
@@ -37,6 +39,7 @@
     pickUpLocation: "Bengaluru",
     dropOffLocation: "Bengaluru",
     duration: "4N 5D",
+    imageUrl:"https://github.com/narine01/storage-005/blob/main/Images/wayanad.png",
   },
   {
     category: "Domestic",
@@ -50,6 +53,7 @@
     pickUpLocation: "Bengaluru",
     dropOffLocation: "Bengaluru",
     duration: "3N 4D",
+    imageUrl:"https://github.com/narine01/storage-005/blob/main/Images/hampi.png"
   },
   {
     category: "Domestic",
@@ -63,6 +67,7 @@
     pickUpLocation: "Bengaluru",
     dropOffLocation: "Bengaluru",
     duration: "3N 4D",
+    image:"https://github.com/narine01/storage-005/blob/main/Images/Coorg.png",
   },
   {
     category: "Domestic",
@@ -76,6 +81,7 @@
     pickUpLocation: "Bengaluru",
     dropOffLocation: "Bengaluru",
     duration: "2N 3D",
+    imageUrl:"https://github.com/narine01/storage-005/blob/main/Images/kodaikanal.png",
   },
   {
     category: "Domestic",
@@ -89,6 +95,7 @@
     pickUpLocation: "Bengaluru",
     dropOffLocation: "Bengaluru",
     duration: "4N 5D",
+    imageUrl:"https://github.com/narine01/storage-005/blob/main/Images/gokarna.png"
   },
   {
     category: "Domestic",
@@ -102,5 +109,6 @@
     pickUpLocation: "Bengaluru",
     dropOffLocation: "Bengaluru",
     duration: "3N 4D",
+    imageUrl:"https://github.com/narine01/storage-005/blob/main/Images/munnar.png",
   },
 ]
