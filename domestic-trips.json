@@ -1,114 +1,162 @@
 [
     {
-      "category": "Domestic",
-      "id": "Domestic-Pondicherry-1",
-      "name": "Pondicherry",
-      "dates": [
-        { "value": "2024-01-12" },
-        { "value": "2024-02-12" },
-        { "value": "2024-03-12" },
-      ],
-      "pickUpLocation": "Bengaluru",
-      "dropOffLocation": "Bengaluru",
-      "duration": "3N 4D",
-      "imageUrl":"https://github.com/narine01/storage-005/blob/main/Images/pondicherry.png",
+        "category": "Domestic",
+        "id": "Domestic-Pondicherry-1",
+        "name": "Pondicherry",
+        "dates": [
+            {
+                "value": "2024-01-12"
+            },
+            {
+                "value": "2024-02-12"
+            },
+            {
+                "value": "2024-03-12"
+            }
+        ],
+        "pickUpLocation": "Bengaluru",
+        "dropOffLocation": "Bengaluru",
+        "duration": "3N 4D",
+        "imageUrl": "https://github.com/narine01/storage-005/blob/main/Images/pondicherry.png"
     },
     {
-      "category": "Domestic",
-      "id": "Domestic-Chikmagalur-2",
-      "name": "Chikmagalur",
-      "dates": [
-        { "value": "2024-04-12" },
-        { "value": "2024-05-12" },
-        { "value": "2024-06-12" },
-      ],
-      "pickUpLocation": "Bengaluru",
-      "dropOffLocation": "Bengaluru",
-      "duration": "2N 3D",
-      "imageUrl":"https://github.com/narine01/storage-005/blob/main/Images/chikmanglur.png",
+        "category": "Domestic",
+        "id": "Domestic-Chikmagalur-2",
+        "name": "Chikmagalur",
+        "dates": [
+            {
+                "value": "2024-04-12"
+            },
+            {
+                "value": "2024-05-12"
+            },
+            {
+                "value": "2024-06-12"
+            }
+        ],
+        "pickUpLocation": "Bengaluru",
+        "dropOffLocation": "Bengaluru",
+        "duration": "2N 3D",
+        "imageUrl": "https://github.com/narine01/storage-005/blob/main/Images/chikmanglur.png"
     },
     {
-      "category": "Domestic",
-      "id": "Domestic-Wayanad-3",
-      "name": "Wayanad",
-      "dates": [
-        { "value": "2024-07-12" },
-        { "value": "2024-08-12" },
-        { "value": "2024-09-12" },
-      ],
-      "pickUpLocation": "Bengaluru",
-      "dropOffLocation": "Bengaluru",
-      "duration": "4N 5D",
-      "imageUrl":"https://github.com/narine01/storage-005/blob/main/Images/wayanad.png",
+        "category": "Domestic",
+        "id": "Domestic-Wayanad-3",
+        "name": "Wayanad",
+        "dates": [
+            {
+                "value": "2024-07-12"
+            },
+            {
+                "value": "2024-08-12"
+            },
+            {
+                "value": "2024-09-12"
+            }
+        ],
+        "pickUpLocation": "Bengaluru",
+        "dropOffLocation": "Bengaluru",
+        "duration": "4N 5D",
+        "imageUrl": "https://github.com/narine01/storage-005/blob/main/Images/wayanad.png"
     },
     {
-      "category": "Domestic",
-      "id": "Domestic-Hampi-4",
-      "name": "Hampi",
-      "dates": [
-        { "value": "2024-10-12" },
-        { "value": "2024-11-12" },
-        { "value": "2024-12-12" },
-      ],
-      "pickUpLocation": "Bengaluru",
-      "dropOffLocation": "Bengaluru",
-      "duration": "3N 4D",
-      "imageUrl":"https://github.com/narine01/storage-005/blob/main/Images/hampi.png"
+        "category": "Domestic",
+        "id": "Domestic-Hampi-4",
+        "name": "Hampi",
+        "dates": [
+            {
+                "value": "2024-10-12"
+            },
+            {
+                "value": "2024-11-12"
+            },
+            {
+                "value": "2024-12-12"
+            }
+        ],
+        "pickUpLocation": "Bengaluru",
+        "dropOffLocation": "Bengaluru",
+        "duration": "3N 4D",
+        "imageUrl": "https://github.com/narine01/storage-005/blob/main/Images/hampi.png"
     },
     {
-      "category": "Domestic",
-      "id": "Domestic-Coorg-5",
-      "name": "Coorg",
-      "dates": [
-        { "value": "2025-01-12" },
-        { "value": "2025-02-12" },
-        { "value": "2025-03-12" },
-      ],
-      "pickUpLocation": "Bengaluru",
-      "dropOffLocation": "Bengaluru",
-      "duration": "3N 4D",
-      "imageUrl":"https://github.com/narine01/storage-005/blob/main/Images/Coorg.png",
+        "category": "Domestic",
+        "id": "Domestic-Coorg-5",
+        "name": "Coorg",
+        "dates": [
+            {
+                "value": "2025-01-12"
+            },
+            {
+                "value": "2025-02-12"
+            },
+            {
+                "value": "2025-03-12"
+            }
+        ],
+        "pickUpLocation": "Bengaluru",
+        "dropOffLocation": "Bengaluru",
+        "duration": "3N 4D",
+        "imageUrl": "https://github.com/narine01/storage-005/blob/main/Images/Coorg.png"
     },
     {
-      "category": "Domestic",
-      "id": "Domestic-Kodaikanal-6",
-      "name": "Kodaikanal",
-      "dates": [
-        { "value": "2025-04-12" },
-        { "value": "2025-05-12" },
-        { "value": "2025-06-12" },
-      ],
-      "pickUpLocation": "Bengaluru",
-      "dropOffLocation": "Bengaluru",
-      "duration": "2N 3D",
-      "imageUrl":"https://github.com/narine01/storage-005/blob/main/Images/kodaikanal.png",
+        "category": "Domestic",
+        "id": "Domestic-Kodaikanal-6",
+        "name": "Kodaikanal",
+        "dates": [
+            {
+                "value": "2025-04-12"
+            },
+            {
+                "value": "2025-05-12"
+            },
+            {
+                "value": "2025-06-12"
+            }
+        ],
+        "pickUpLocation": "Bengaluru",
+        "dropOffLocation": "Bengaluru",
+        "duration": "2N 3D",
+        "imageUrl": "https://github.com/narine01/storage-005/blob/main/Images/kodaikanal.png"
     },
     {
-      "category": "Domestic",
-      "id": "Domestic-Gokarna-7",
-      "name": "Gokarna",
-      "dates": [
-        { "value": "2025-07-12" },
-        { "value": "2025-08-12" },
-        { "value": "2025-09-12" },
-      ],
-      "pickUpLocation": "Bengaluru",
-      "dropOffLocation": "Bengaluru",
-      "duration": "4N 5D",
-      "imageUrl":"https://github.com/narine01/storage-005/blob/main/Images/gokarna.png"
+        "category": "Domestic",
+        "id": "Domestic-Gokarna-7",
+        "name": "Gokarna",
+        "dates": [
+            {
+                "value": "2025-07-12"
+            },
+            {
+                "value": "2025-08-12"
+            },
+            {
+                "value": "2025-09-12"
+            }
+        ],
+        "pickUpLocation": "Bengaluru",
+        "dropOffLocation": "Bengaluru",
+        "duration": "4N 5D",
+        "imageUrl": "https://github.com/narine01/storage-005/blob/main/Images/gokarna.png"
     },
     {
-      "category": "Domestic",
-      "id": "Domestic-Munnar-8",
-      "name": "Munnar",
-      "dates": [
-        { "value": "2025-10-12" },
-        { "value": "2025-11-12" },
-        { "value": "2025-12-12" },
-      ],
-      "pickUpLocation": "Bengaluru",
-      "dropOffLocation": "Bengaluru",
-      "duration": "3N 4D",
-      "imageUrl":"https://github.com/narine01/storage-005/blob/main/Images/munnar.png",
+        "category": "Domestic",
+        "id": "Domestic-Munnar-8",
+        "name": "Munnar",
+        "dates": [
+            {
+                "value": "2025-10-12"
+            },
+            {
+                "value": "2025-11-12"
+            },
+            {
+                "value": "2025-12-12"
+            }
+        ],
+        "pickUpLocation": "Bengaluru",
+        "dropOffLocation": "Bengaluru",
+        "duration": "3N 4D",
+        "imageUrl": "https://github.com/narine01/storage-005/blob/main/Images/munnar.png"
     }
 ]
