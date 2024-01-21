@@ -1,4 +1,4 @@
-[
+{
   {
     category: "Domestic",
     id: "Domestic-Pondicherry-1",
@@ -111,4 +111,4 @@
     duration: "3N 4D",
     imageUrl:"https://github.com/narine01/storage-005/blob/main/Images/munnar.png",
   },
-]
+  }
